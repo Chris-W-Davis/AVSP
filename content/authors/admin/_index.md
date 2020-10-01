@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Site about AVSP and other things (see interests)
+role: Posts about AV speech processing and other things (see interests)
 
 # Organizations/Affiliations
 organizations:
