@@ -18,14 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include speech processing in general plus many other things.
+bio: Research interests that will be discussed in Posts include speech processing in general plus many other things.
 
 interests:
-- Auditory-Visual Speech processing
+- AV speech
 - Gesture
 - Emotion
 - Hearing
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
