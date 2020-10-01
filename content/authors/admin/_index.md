@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Site about AVSP
+role: Site about AVSP and other things (see interests)
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include speech processing in general.
+bio: My research interests include speech processing in general plus many other things.
 
 interests:
 - Auditory-Visual Speech processing
 - Gesture
 - Emotion
+- Hearing
 
-education:
-  courses:
-  - course: PhD
-    institution: Some University
-    year: 1900
-  - course: Msc
-    institution: Some University
-    year: 1900
-  - course: BSc
-    institution: Some University
-    year: 1900
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
