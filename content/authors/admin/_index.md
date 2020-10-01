@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Auditory Visual Speech Processing (AVSP)
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Site about AVSP
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Some University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include speech processing in general.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Auditory-Visual Speech processing
+- Gesture
+- Emotion
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD
+    institution: Some University
+    year: 1900
+  - course: Msc
+    institution: Some University
+    year: 1900
+  - course: BSc
+    institution: Some University
+    year: 1900
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +47,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/@AV_SP
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+This is the companion site to the @AV_SP twitter site. For the moment there is not much here - just a bunch of old Latin & Greek
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Περὶ αἰσθήσεως καὶ αἰσθητῶν. Servatis per mundum, vos can adepto ideam de ipsa rerum essentia. De ratione scientiae est comparare materiam cogitandi rationi scientiae. Sic per vim physicam experientia cotidiana res cogitans. 
