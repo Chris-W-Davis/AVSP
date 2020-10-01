@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Auditory Visual Speech Processing (AVSP)
+title: 
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: Site about AVSP and other things (see interests)
 
 # Organizations/Affiliations
 organizations:
-- name: Some University
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
