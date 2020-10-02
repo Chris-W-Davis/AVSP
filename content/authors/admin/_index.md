@@ -59,6 +59,6 @@ user_groups:
 - Visitors
 ---
 
-This is the companion site to the @AV_SP twitter site. For the moment there is not much here - just a bunch of old Latin & Greek
+This is the companion site to the @AV_SP twitter site. For the moment there is not much here - just a bunch of old Latin & Greek - Oh, and one post (see below).
 
 Περὶ αἰσθήσεως καὶ αἰσθητῶν. Servatis per mundum, vos can adepto ideam de ipsa rerum essentia. De ratione scientiae est comparare materiam cogitandi rationi scientiae. Sic per vim physicam experientia cotidiana res cogitans. 
