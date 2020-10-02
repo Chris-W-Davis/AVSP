@@ -4,8 +4,8 @@ date: 2020-10-02
 math: true
 diagram: true
 image:
-  placement: 2
-  caption: 'Eric_using_Kura_system_ATR'
+  placement: 1
+  caption: ''
 ---
 
 Eric Vatikiotis-Bateson and the Birth of AVSP
