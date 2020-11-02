@@ -64,5 +64,5 @@ It is great that you clicked through from twitter to land here.
 This is an idea still finding its words. There are many things 
 that would be great to explore in posts here.
 Too many things. Anyhow. That is all to come. Right now, there is 
-simply this goood intention....
+simply this good intention....
 
